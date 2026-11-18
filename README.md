@@ -9,9 +9,10 @@ This repository contains folders for each set of results. I outline the code pro
 
 ## Section 3: Motivating Empirical Analysis
 Results for the empirical analysis require the following code and data:
-1. ...
-2. ...
-3. ...
+1. ClimateTransition_Construction_Monthly_2027.do (ClimPol_Construction_Monthly_2026)
+2. ROFF_Empirical_DataConstruction_2027.do (OilRuns_Empirical_03182026)
+4. ROFF_Empirical_EventStudy_2027.do (OilRuns_Empirical_EventStudy_03182026)
+5. ROFF_VAR_ClimateTransition_2027.m (OilRuns_VAR_ClimPol_03182026)
 
 ## Sections 4 - 6: Numerical Solutions of the Dynamic Model of Climate-Linked Transition Risk
 There are multiple model specifications solved to derive the numerical results from the model:
